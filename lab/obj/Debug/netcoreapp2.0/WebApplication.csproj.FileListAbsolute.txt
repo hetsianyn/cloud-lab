@@ -1,0 +1,14 @@
+D:\University\7 семестр\Cloud\lab\bin\Debug\netcoreapp2.0\appsettings.Development.json
+D:\University\7 семестр\Cloud\lab\bin\Debug\netcoreapp2.0\appsettings.json
+D:\University\7 семестр\Cloud\lab\bin\Debug\netcoreapp2.0\WebApplication.deps.json
+D:\University\7 семестр\Cloud\lab\bin\Debug\netcoreapp2.0\WebApplication.runtimeconfig.json
+D:\University\7 семестр\Cloud\lab\bin\Debug\netcoreapp2.0\WebApplication.runtimeconfig.dev.json
+D:\University\7 семестр\Cloud\lab\bin\Debug\netcoreapp2.0\WebApplication.dll
+D:\University\7 семестр\Cloud\lab\bin\Debug\netcoreapp2.0\WebApplication.pdb
+D:\University\7 семестр\Cloud\lab\obj\Debug\netcoreapp2.0\WebApplication.csprojAssemblyReference.cache
+D:\University\7 семестр\Cloud\lab\obj\Debug\netcoreapp2.0\WebApplication.AssemblyInfoInputs.cache
+D:\University\7 семестр\Cloud\lab\obj\Debug\netcoreapp2.0\WebApplication.AssemblyInfo.cs
+D:\University\7 семестр\Cloud\lab\obj\Debug\netcoreapp2.0\WebApplication.csproj.CoreCompileInputs.cache
+D:\University\7 семестр\Cloud\lab\obj\Debug\netcoreapp2.0\WebApplication.dll
+D:\University\7 семестр\Cloud\lab\obj\Debug\netcoreapp2.0\WebApplication.pdb
+D:\University\7 семестр\Cloud\lab\obj\Debug\netcoreapp2.0\WebApplication.genruntimeconfig.cache
